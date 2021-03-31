@@ -6,7 +6,7 @@ import java.util.Map;
 public class StringUtil {
 
     public String repeatAndJoin(String val, int cnt, String separator){
-        return "";
+        throw new RuntimeException();
     }
 
     public char mostRepeatingChar(String val){
