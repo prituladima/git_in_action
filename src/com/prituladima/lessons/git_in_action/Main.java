@@ -6,6 +6,7 @@ public class Main {
 
 
         String val;
+        int var;
 
     }
 }
