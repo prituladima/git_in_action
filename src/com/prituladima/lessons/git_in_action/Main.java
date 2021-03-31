@@ -7,6 +7,8 @@ public class Main {
 
         String val;
         int var;
+        byte b;
+
 
     }
 }
